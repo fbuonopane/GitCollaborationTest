@@ -29,5 +29,16 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 1.0
+ Statistics:
+  TotalNodeCount: 131
+  Objects: 69
+  ObjectTypes: 1
+  Variables: 61
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 2
+  ReferenceTypes: 0
+  Files: 20
  Nodes:
  - File: Nodes/GitCollaborationTest.yaml
